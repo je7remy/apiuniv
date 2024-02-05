@@ -1,0 +1,12 @@
+24-02-04 20:54:06 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\listall.php(34): MateriaXEstudiante->create()
+#2 {main}
+24-02-04 21:00:56 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\listall.php(34): MateriaXEstudiante->create()
+#2 {main}
