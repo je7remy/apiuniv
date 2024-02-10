@@ -1,0 +1,144 @@
+24-02-10 12:12:26 - Error al insertar datos materiaxestudiante 21-0266
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:12:43 - Error al insertar datos materiaxestudiante 21-0266
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:12:50 - Error al insertar datos materiaxestudiante 210266
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:13:40 - Error al insertar datos materiaxestudiante 210266
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:15:46 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_3` FOREIGN KEY (`idmaestro`) REFERENCES `maestros` (`idmaestro`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:17:55 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:19:17 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:19:45 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:21:52 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:22:34 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:25:46 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:26:06 - Error al actualizar datos materiaxestudiante 1
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_3` FOREIGN KEY (`idmaestro`) REFERENCES `maestros` (`idmaestro`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:87
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\editar.php(24): MateriaXEstudiante->update()
+#2 {main}
+24-02-10 12:26:14 - Error al actualizar datos materiaxestudiante 1
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_3` FOREIGN KEY (`idmaestro`) REFERENCES `maestros` (`idmaestro`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:87
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\editar.php(24): MateriaXEstudiante->update()
+#2 {main}
+24-02-10 12:27:23 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:27:47 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:41:20 - Error al actualizar datos materiaxestudiante 1
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_3` FOREIGN KEY (`idmaestro`) REFERENCES `maestros` (`idmaestro`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:87
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\editar.php(24): MateriaXEstudiante->update()
+#2 {main}
+24-02-10 12:41:45 - Error al actualizar datos materiaxestudiante 1
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_3` FOREIGN KEY (`idmaestro`) REFERENCES `maestros` (`idmaestro`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:87
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\editar.php(24): MateriaXEstudiante->update()
+#2 {main}
+24-02-10 12:41:55 - Error al actualizar datos materiaxestudiante 1
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1-1-1-1' for key 'PRIMARY' in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:87
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\editar.php(24): MateriaXEstudiante->update()
+#2 {main}
+24-02-10 12:42:52 - Error al actualizar datos materiaxestudiante 1
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1-1-1-1' for key 'PRIMARY' in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:87
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\editar.php(24): MateriaXEstudiante->update()
+#2 {main}
+24-02-10 12:43:48 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:44:17 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:44:49 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:46:27 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
+24-02-10 12:46:41 - Error al insertar datos materiaxestudiante 
+PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`instituto`.`materiaxestudiante`, CONSTRAINT `materiaxestudiante_ibfk_1` FOREIGN KEY (`matricula`) REFERENCES `estudiantes` (`idestudiante`)) in C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php:52
+Stack trace:
+#0 C:\xampp\htdocs\apiuniv\materiaxestudiante\materiaxestudiante.php(52): PDOStatement->execute()
+#1 C:\xampp\htdocs\apiuniv\materiaxestudiante\agregar.php(24): MateriaXEstudiante->create()
+#2 {main}
