@@ -24,13 +24,17 @@
         // if decode succeed, show datos details
         try {
      
-         
+          $decoded =JWT::decode($jwt, $key, array('HS256'));
      
             // set datos property values
       
       
+       $datos->id_usuario = $data->id_usuario;
        $datos->nombre = $data->nombre;
-       $datos->apellido = $data->apellido;
+       $datos->usuario = $data->usuario;
+       $datos->clave = $data->clave;
+       $datos->tipo = $data->tipo;
+       $datos->estado = $data->estado;
     
         // update datos will be here
         

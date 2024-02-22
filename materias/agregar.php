@@ -14,7 +14,7 @@ $jwt = isset($data->jwt) ? $data->jwt : "";
 
 if ($jwt) {
     try {
-      
+
         $datos->descripcion = $data->descripcion;
         $datos->codigomateria = $data->codigomateria;
         $datos->horario = $data->horario;

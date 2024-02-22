@@ -15,7 +15,7 @@ $jwt = isset($data->jwt) ? $data->jwt : "";
 if ($jwt) {
     try {
         // Asignar valores desde el JSON
-        $datos->matricula = $data->matricula;
+       
         $datos->idmateria = $data->idmateria;
         $datos->idmaestro = $data->idmaestro;
         $datos->idperiodo = $data->idperiodo;

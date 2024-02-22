@@ -24,6 +24,8 @@ if ($jwt) {
     // if decode succeed, show periodo_academico details
     try {
         // set periodo_academico property values
+        
+        $periodo_academico->idperiodo = $data->idperiodo;  
         $periodo_academico->descripcion = $data->descripcion;
         $periodo_academico->estado = $data->estado;
 

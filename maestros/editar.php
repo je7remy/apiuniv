@@ -14,7 +14,7 @@ $jwt = isset($data->jwt) ? $data->jwt : "";
 
 if ($jwt) {
     try {
-      
+        $datos->idmaestro = $data->idmaestro;
         $datos->nombre = $data->nombre;
         $datos->apellidos = $data->apellidos;
         $datos->telefono = $data->telefono;

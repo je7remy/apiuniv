@@ -14,8 +14,10 @@ $jwt = isset($data->jwt) ? $data->jwt : "";
 if ($jwt) {
     try {
         $materiaXMaestro->idmaestro = $data->idmaestro;
-        $materiaXMaestro->nombre = $data->nombre;
-        $materiaXMaestro->apellido = $data->apellido;
+        $materiaXMaestro->idmateria = $data->idmateria;
+        $materiaXMaestro->idperiodo = $data->idperiodo;
+        $materiaXMaestro->anio = $data->anio;
+        $materiaXMaestro->cuatrimestre = $data->cuatrimestre;
 
         $dat = $materiaXMaestro->update();
 
