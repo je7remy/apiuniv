@@ -17,19 +17,20 @@ Este servicio proporciona endpoints para la gestión de estudiantes, maestros, m
 
 ## 📁 Estructura del proyecto
 
-config/ -> Configuración de conexión y utilidades
-estudiantes/ -> Endpoints CRUD de estudiantes
-maestros/ -> Endpoints CRUD de maestros
-materias/ -> Endpoints CRUD de materias
-materiaxestudiante/ -> Relación materia-estudiante
-materiaxmaestro/ -> Relación materia-maestro
-periodos_academicos/ -> Gestión de periodos académicos
-usuario/ -> Gestión de usuarios
-login/ -> Autenticación con JWT
-log/ -> Registros de actividad
-libs/php-jwt-master/ -> Librería JWT incluida
-index.php -> Punto de entrada principal
-instituto.sql -> Script de base de datos
+- **config/** → Configuración de conexión y utilidades  
+- **estudiantes/** → Endpoints CRUD de estudiantes  
+- **maestros/** → Endpoints CRUD de maestros  
+- **materias/** → Endpoints CRUD de materias  
+- **materiaxestudiante/** → Relación materia-estudiante  
+- **materiaxmaestro/** → Relación materia-maestro  
+- **periodos_academicos/** → Gestión de periodos académicos  
+- **usuario/** → Gestión de usuarios  
+- **login/** → Autenticación con JWT  
+- **log/** → Registros de actividad  
+- **libs/php-jwt-master/** → Librería JWT incluida  
+- **index.php** → Punto de entrada principal  
+- **instituto.sql** → Script de base de datos  
+
 
 
 
