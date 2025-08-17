@@ -1,5 +1,3 @@
-## 📑 README.md (propuesto)
-
 # 🏫 ApiUniv - API REST para gestión universitaria
 
 **ApiUniv** es una API REST desarrollada en **PHP** que sirve como backend para la aplicación móvil [AppUniv](https://github.com/tuusuario/appuniv).  
@@ -49,7 +47,7 @@ instituto.sql          -> Script de base de datos
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/apiuniv.git
-````
+``
 
 2. Configura la base de datos importando el archivo:
 
